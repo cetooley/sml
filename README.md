@@ -31,7 +31,7 @@ Gerhard Koch gerhard.koch AT ymail.com
 
 Modified by
 ---
-Chris Tooley ***REMOVED***
+Chris Tooley
 
 [LICENCE](./LICENSE)
 ---
